@@ -10,7 +10,7 @@ leading to better city planning and enhanced commuter experiences. Below is the 
 
 # Insights 
 ## Metro Line Analysis
-![Metro Line Analysis]()
+![Metro Line Analysis](https://github.com/Shaikh-areeb/Delhi-Metro-Network-Analysis/blob/main/Metro%20Line%20Analysis.png)
 
 ## Distribution of Delhi Metro station Layouts
 ![Distribution of Delhi Metro station Layouts](https://github.com/Shaikh-areeb/Delhi-Metro-Network-Analysis/blob/main/Distribution%20of%20Delhi%20Metro%20station%20Layouts.png)
