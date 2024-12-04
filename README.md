@@ -13,7 +13,7 @@ leading to better city planning and enhanced commuter experiences. Below is the 
 ![Metro Line Analysis]()
 
 ## Distribution of Delhi Metro station Layouts
-![Distribution of Delhi Metro station Layouts]()
+![Distribution of Delhi Metro station Layouts](https://github.com/Shaikh-areeb/Delhi-Metro-Network-Analysis/blob/main/Distribution%20of%20Delhi%20Metro%20station%20Layouts.png)
 
 # Observations
 Elevated Stations: The majority of the stations are Elevated. It is a common design choice in urban areas to save space and reduce land acquisition issues.
